@@ -1,0 +1,5 @@
+# Clone the repository
+git clone <your-repo-url>
+
+# Navigate into the project directory
+cd pembroke-farmers-market
